@@ -30,11 +30,11 @@
 [projectLink]
 
 
-## Contact 
+## Contact
 
-[**Instagram - asyaa.arsln**] [instagram]
+[**Instagram - asyaa.arsln**][instagram]
 
-[**Email - arslnnasyaa@gmail.com**] [mail]
+[**Email - arslnnasyaa@gmail.com**][mail]
 
 
 
