@@ -47,5 +47,5 @@
 [img3]: ./img/3.png
 
 
-[instagram]: https://www.instagram.com/asyaa.arsln/#
 [mail]: arslnnasyaa@gmail.com
+[instagram]: https://www.instagram.com/asyaa.arsln/#
