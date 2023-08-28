@@ -35,9 +35,9 @@
 
 
 
-[img1]: img/1.png
-[img2]: img/2.png
-[img3]: img/3.png
+[img1]: ./img/1.png
+[img2]: ./img/2.png
+[img3]: ./img/3.png
 
 
 [instagram]: https://www.instagram.com/asyaa.arsln/#
