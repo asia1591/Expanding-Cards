@@ -48,5 +48,5 @@
 
 [mail]: arslnnasyaa@gmail.com
 [instagram]: https://www.instagram.com/asyaa.arsln/#
-[linkedin]: www.linkedin.com/in/asya-arslan
+[linkedin]: www.linkedin.com/in/asya-arslan-a2472028a
 [projectLink]: https://melodic-nougat-104cc1.netlify.app/
