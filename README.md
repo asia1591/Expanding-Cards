@@ -1,7 +1,7 @@
 ﻿# Expanding-Cards
 
 
-> **Live Link** [https://blabla] (https://blabla)
+> **Live Link** [https://melodic-nougat-104cc1.netlify.app/](https://melodic-nougat-104cc1.netlify.app/)
 
 ![][img1]
 
@@ -26,8 +26,7 @@
 
 > ### Project Link
 >
-> [**https://blabla.com**]
-[projectLink]
+> [https://melodic-nougat-104cc1.netlify.app/][projectLink]
 
 
 ## Contact
@@ -36,7 +35,7 @@
 
 [**Email - arslnnasyaa@gmail.com**][mail]
 
-
+[**Linkedin - Asya Arslan**][linkedin]
 
 
 
@@ -49,3 +48,5 @@
 
 [mail]: arslnnasyaa@gmail.com
 [instagram]: https://www.instagram.com/asyaa.arsln/#
+[linkedin]: www.linkedin.com/in/asya-arslan
+[projectLink]: https://melodic-nougat-104cc1.netlify.app/
